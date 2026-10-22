@@ -1,4 +1,4 @@
-# Hike Footwear — CRO Case Study
+# Hike Footwear: CRO Case Study
 
 **Full-funnel conversion rate optimization audit for a DTC barefoot shoe brand**  
 Conducted via Osmosia · Emma Larroze
@@ -17,8 +17,8 @@ This case study documents the full CRO audit: funnel diagnostic, persona mapping
 
 ## View the Case Study
 
-→ **[Open index.html](./index.html)** — Full visual case study (branded in Hike Footwear's identity)  
-→ **[Read CASE-STUDY.md](./CASE-STUDY.md)** — Markdown version for reference
+→ **[Open index.html](./index.html)**, Full visual case study (branded in Hike Footwear's identity)  
+→ **[Read CASE-STUDY.md](./CASE-STUDY.md)**, Markdown version for reference
 
 ---
 
@@ -38,7 +38,7 @@ This case study documents the full CRO audit: funnel diagnostic, persona mapping
 - **Root cause:** No pain-to-solution narrative, hidden size guide, trust signals absent at checkout, mobile experience not prioritized
 - **5 levers:** PDP restructuring, inline size guide, bundle reframe, checkout trust continuity, mobile-first redesign
 - **6 quick wins:** No A/B test required, implementable immediately
-- **Projected impact:** +$84K/month (conservative) to +$188K/month (optimistic) — zero additional ad spend
+- **Projected impact:** +$84K/month (conservative) to +$188K/month (optimistic), with zero additional ad spend
 
 ---
 
@@ -55,7 +55,7 @@ Full-funnel audit based on:
 
 ## About
 
-**Emma Larroze** — CRO & Growth Strategy  
+**Emma Larroze** | CRO & Growth Strategy  
 5+ years in DTC e-commerce analytics, performance marketing, and conversion optimization  
 Previously: Osmosia (80+ Shopify brands), MPCI Brazil, OVRSEA, Baron Philippe de Rothschild  
 Based in Los Angeles, CA

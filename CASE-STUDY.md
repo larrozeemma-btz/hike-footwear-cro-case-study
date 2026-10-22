@@ -1,15 +1,15 @@
-# CRO Case Study — Hike Footwear
+# CRO Case Study: Hike Footwear
 ### Scaling a Barefoot Shoe Brand from Traffic to Conversion
 
 **Brand:** Hike Footwear | hike-footwear.com  
-**Category:** DTC E-commerce — Health & Wellness Footwear  
+**Category:** DTC E-commerce: Health & Wellness Footwear  
 **Stack:** Shopify, Meta Ads, Sanity CMS  
 **Engagement context:** Osmosia (CRO & Analytics Consulting)  
 **Focus:** Conversion Rate Optimization across PDP, Checkout & Offer Architecture
 
 ---
 
-## 01 — Brand Context
+## 01: Brand Context
 
 Hike Footwear is a DTC barefoot shoe brand built around a functional health promise: pain-free walking through wide toe box, zero-drop sole, and natural alignment technology. With 1,450,000+ customers served and media placements across CBS News, ABC, MSN, and Yahoo, the brand had built strong top-of-funnel credibility and a clear market position.
 
@@ -19,7 +19,7 @@ The product catalog spans multiple hero SKUs (HF Stride, HF Cloud, HF Trail) sol
 
 ---
 
-## 02 — Diagnostic: Where Conversion Was Lost
+## 02: Diagnostic: Where Conversion Was Lost
 
 ### Funnel Mapping
 
@@ -36,15 +36,15 @@ A full-funnel audit across sessions, heatmaps, and session recordings identified
 
 The PDP was doing too much and not enough simultaneously. It presented extensive visual content (9 product images, infographics, GIFs) but failed to sequence information in the order the customer needed it to make a decision.
 
-The customer — a 40–65 year old experiencing foot, knee, or back pain — arrived from a Meta ad with a specific pain point. The PDP addressed that pain point in fragments rather than as a coherent trust-building narrative.
+The customer, a 40–65 year old experiencing foot, knee, or back pain, arrived from a Meta ad with a specific pain point. The PDP addressed that pain point in fragments rather than as a coherent trust-building narrative.
 
 ---
 
-## 03 — Persona: Who We Were Converting
+## 03: Persona: Who We Were Converting
 
 **Primary buyer:** "Health-aware Margaret"
 - Female, 45–65, active lifestyle, experiencing chronic foot or joint discomfort
-- Not an impulse buyer — researches before purchasing
+- Not an impulse buyer: researches before purchasing
 - Motivated by pain relief, not fashion
 - Skeptical of DTC brands; requires multiple credibility signals
 - Price-sensitive but responds to perceived value over raw discounts
@@ -56,9 +56,9 @@ The customer — a 40–65 year old experiencing foot, knee, or back pain — ar
 
 ---
 
-## 04 — Strategic Levers Identified
+## 04: Strategic Levers Identified
 
-### Lever 1 — PDP Narrative Restructuring
+### Lever 1: PDP Narrative Restructuring
 
 **Problem:** The benefit icons (Wide Toe Box, Natural Alignment, Zero Drop Sole) appeared above the fold as isolated claims without connecting to the customer's specific pain point. The transition from "product features" to "your life improved" was absent.
 
@@ -72,22 +72,22 @@ The customer — a 40–65 year old experiencing foot, knee, or back pain — ar
 
 ---
 
-### Lever 2 — Size Confidence & Fit Anxiety
+### Lever 2: Size Confidence & Fit Anxiety
 
-**Problem:** Footwear has one of the highest return rates in e-commerce. The size selector was present but the fit chart was not immediately visible — requiring a click to reveal. For a customer already uncertain about buying shoes online from a DTC brand, this extra step was a conversion killer.
+**Problem:** Footwear has one of the highest return rates in e-commerce. The size selector was present but the fit chart was not immediately visible: requiring a click to reveal. For a customer already uncertain about buying shoes online from a DTC brand, this extra step was a conversion killer.
 
 **Recommendation:**
 - Embed a simplified inline size guide directly beneath the size selector (no click required)
 - Add a "Fits true to size / Size up for wide feet" recommendation line based on customer reviews
-- Introduce a "Try at Home — 30 Day Free Returns" badge adjacent to the size selector
+- Introduce a "Try at Home: 30 Day Free Returns" badge adjacent to the size selector
 
 **Expected impact:** -20% size-related support tickets, +8–12% CVR on size-sensitive SKUs
 
 ---
 
-### Lever 3 — Bundle Architecture Optimization
+### Lever 3: Bundle Architecture Optimization
 
-**Problem:** The "2 Pairs — 10% extra discount" bundle was presented with a countdown timer but without a compelling rationale for why someone would buy two pairs of the same shoe. The mechanic was technically present but psychologically unconvincing.
+**Problem:** The "2 Pairs: 10% extra discount" bundle was presented with a countdown timer but without a compelling rationale for why someone would buy two pairs of the same shoe. The mechanic was technically present but psychologically unconvincing.
 
 **Recommendation:** Reframe bundle logic from "save more" to "complete your use case":
 - Reposition as "One for everyday. One for active days." 
@@ -98,9 +98,9 @@ The customer — a 40–65 year old experiencing foot, knee, or back pain — ar
 
 ---
 
-### Lever 4 — Trust Signal Sequencing at Checkout
+### Lever 4: Trust Signal Sequencing at Checkout
 
-**Problem:** The "Developed with podiatrists" claim appeared on the PDP but disappeared at checkout — precisely the moment when purchase anxiety peaks. The checkout page was functionally clean but emotionally cold.
+**Problem:** The "Developed with podiatrists" claim appeared on the PDP but disappeared at checkout: precisely the moment when purchase anxiety peaks. The checkout page was functionally clean but emotionally cold.
 
 **Recommendation:**
 - Inject a one-line reassurance strip at checkout: "✓ Podiatrist-approved  ✓ 30-day free returns  ✓ 1,450,000+ customers"
@@ -111,7 +111,7 @@ The customer — a 40–65 year old experiencing foot, knee, or back pain — ar
 
 ---
 
-### Lever 5 — Mobile Experience Prioritization
+### Lever 5: Mobile Experience Prioritization
 
 **Problem:** The majority of traffic arrived via Meta Ads on mobile. The PDP image gallery (9 images including GIFs) was optimized for desktop visual richness but created heavy scroll debt on mobile. Critical trust information (podiatrist claim, returns policy) was buried below the fold.
 
@@ -124,7 +124,7 @@ The customer — a 40–65 year old experiencing foot, knee, or back pain — ar
 
 ---
 
-## 05 — A/B Test Roadmap
+## 05: A/B Test Roadmap
 
 | Priority | Test | Hypothesis | KPI | Expected Lift |
 |---|---|---|---|---|
@@ -136,19 +136,19 @@ The customer — a 40–65 year old experiencing foot, knee, or back pain — ar
 
 ---
 
-## 06 — Quick Wins (No Test Required)
+## 06: Quick Wins (No Test Required)
 
 These changes carry zero-risk and should be implemented immediately:
 
 - **Free shipping badge visibility:** Move from below-the-fold to within the first viewport on PDP and cart
 - **Review language curation:** Surface reviews that contain pain-specific keywords ("plantar fasciitis," "knee pain," "back pain") above generic positive reviews
-- **"As Seen On" placement:** Move the CBS/ABC/MSN/Yahoo media strip from homepage-only to PDP — this is where purchase decisions happen
-- **Podiatrist claim specificity:** Replace "Developed with podiatrists" with "Clinically reviewed by Dr. [Name], DPM" if attribution is available — specificity dramatically increases credibility
+- **"As Seen On" placement:** Move the CBS/ABC/MSN/Yahoo media strip from homepage-only to PDP: this is where purchase decisions happen
+- **Podiatrist claim specificity:** Replace "Developed with podiatrists" with "Clinically reviewed by Dr. [Name], DPM" if attribution is available: specificity dramatically increases credibility
 - **Return policy language:** Rewrite from legal-first to customer-first ("Not in love? Return within 30 days, no questions asked")
 
 ---
 
-## 07 — Business Impact Projection
+## 07: Business Impact Projection
 
 **Baseline assumptions:**
 - Monthly sessions: ~150,000 (estimated from ad spend and brand scale)
@@ -172,11 +172,11 @@ Same traffic. Same acquisition budget. Better conversion architecture.
 
 ---
 
-## 08 — Key Takeaways
+## 08: Key Takeaways
 
-1. **The product was not the problem.** Strong health claim, real social proof, credible media coverage — the demand existed. The conversion gap was purely experiential.
+1. **The product was not the problem.** Strong health claim, real social proof, credible media coverage: the demand existed. The conversion gap was purely experiential.
 
-2. **Pain-point specificity converts.** Generic benefit language ("comfortable shoes") underperforms pain-specific language ("relief from plantar fasciitis") for this audience. Every touchpoint — ad, PDP, checkout — should speak to the specific condition, not the general product category.
+2. **Pain-point specificity converts.** Generic benefit language ("comfortable shoes") underperforms pain-specific language ("relief from plantar fasciitis") for this audience. Every touchpoint (ad, PDP, checkout) should speak to the specific condition, not the general product category.
 
 3. **Trust must be continuous.** Building trust on the PDP and losing it at checkout is the most common and most fixable conversion leak in DTC health brands. Trust signals must travel with the customer through every step.
 
@@ -192,5 +192,5 @@ This case study reflects a CRO audit conducted during an engagement with Hike Fo
 
 ---
 
-*Emma Larroze — CRO & Growth Strategy | Los Angeles, CA*  
+*Emma Larroze | CRO & Growth Strategy | Los Angeles, CA*  
 *[linkedin.com/in/emma-larroze](https://linkedin.com/in/emma-larroze)*
